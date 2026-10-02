@@ -1,0 +1,19 @@
+{
+  "project": "Concrete Crack Classification",
+  "author": "Yasmen Sameh",
+  "task": "Binary image classification",
+  "dataset_images": 40000,
+  "split": {
+    "train": 24000,
+    "validation": 8000,
+    "test": 8000
+  },
+  "test_accuracy": 0.9972,
+  "test_precision": 0.9973,
+  "test_recall": 0.9972,
+  "test_f1": 0.9972,
+  "classes": {
+    "Negative": 0,
+    "Positive": 1
+  }
+}
